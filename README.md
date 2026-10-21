@@ -53,3 +53,5 @@ The game includes a **High Score System** that stores the player's best score, e
 ## Author
 
 Developed as an MCA Micro Project to demonstrate Android application development, game logic implementation, timer management, and score persistence techniques.
+
+An Android virtual pet game where players must feed a dinosaur, fulfill food cravings for bonus points, survive a 60-second countdown, and achieve the highest score.

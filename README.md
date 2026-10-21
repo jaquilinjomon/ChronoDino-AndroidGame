@@ -1,7 +1,5 @@
 # ChronoDino-Android-Game
 
-# ChronoDino
-
 ChronoDino is an Android-based virtual pet survival game developed using Java and Android Studio. In this game, players are responsible for keeping a dinosaur alive by feeding it before its life timer runs out.
 
 The dinosaur starts with **60 seconds of life**, and the timer continuously decreases over time. Feeding the dinosaur restores its timer and earns points. If the dinosaur is not fed, it becomes hungry and warns the player. During the final **10 seconds**, the dinosaur cries and displays starvation messages. When the timer reaches zero, the dinosaur dies and the game ends.

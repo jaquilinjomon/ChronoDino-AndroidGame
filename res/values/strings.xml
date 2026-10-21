@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChronoDino</string>
+    <string name="tagline">60-Second Micro Survival</string>
+    <string name="score_label">SCORE</string>
+    <string name="high_score_label">BEST</string>
+    <string name="timer_label">SURVIVAL TIMER</string>
+    <string name="feed_inventory_title">FEED YOUR DINO</string>
+    <string name="food_apple">Apple</string>
+    <string name="food_apple_desc">+10 PTS</string>
+    <string name="food_meat">Meat</string>
+    <string name="food_meat_desc">+20 PTS</string>
+    <string name="food_carrot">Carrot</string>
+    <string name="food_carrot_desc">+15 PTS</string>
+    <string name="game_over_title">GAME OVER</string>
+    <string name="game_over_subtitle">The Dino fell asleep from hunger!</string>
+    <string name="btn_restart">PLAY AGAIN</string>
+    <string name="new_high_score">NEW BEST!</string>
+</resources>

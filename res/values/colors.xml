@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Retro Arcade Theme Colors -->
+    <color name="dino_green">#22C55E</color>
+    <color name="dino_green_dark">#15803D</color>
+    <color name="sky_light">#E0F2FE</color>
+    <color name="ground_grass">#86EFAC</color>
+    <color name="ground_dirt">#BBF7D0</color>
+    
+    <!-- Timer colors -->
+    <color name="timer_safe">#10B981</color>
+    <color name="timer_warning">#F59E0B</color>
+    <color name="timer_danger">#EF4444</color>
+    
+    <!-- Card & UI -->
+    <color name="arcade_surface">#FFFFFF</color>
+    <color name="arcade_border">#CBD5E1</color>
+    <color name="arcade_text">#0F172A</color>
+    <color name="arcade_subtext">#64748B</color>
+    <color name="arcade_badge">#EDE9FE</color>
+    
+    <!-- Food card tints -->
+    <color name="apple_bg">#FEE2E2</color>
+    <color name="apple_stroke">#F87171</color>
+    <color name="meat_bg">#FFEDD5</color>
+    <color name="meat_stroke">#FB923C</color>
+    <color name="carrot_bg">#FEF3C7</color>
+    <color name="carrot_stroke">#FBBF24</color>
+</resources>

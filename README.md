@@ -11,53 +11,53 @@ Each food item awards a specific number of points and restores the dinosaur's ti
 The game also includes a High Score System, allowing players to track and beat their best scores across multiple gameplay sessions.
 
 # Features
-*Real-time 60-second life timer
-Interactive virtual dinosaur pet
-Three different food choices
-Score-based gameplay
-Random food craving system
-Double points reward for satisfying cravings
-Hunger warnings and crying animations/messages
-Game Over screen when the dinosaur dies
-High score tracking system
-Simple and user-friendly Android interface
+**Real-time 60-second life timer**
+**Interactive virtual dinosaur pet**
+**Three different food choices**
+**Score-based gameplay**
+**Random food craving system**
+**Double points reward for satisfying cravings**
+**Hunger warnings and crying animations/messages**
+**Game Over screen when the dinosaur dies**
+**High score tracking system**
+**Simple and user-friendly Android interface**
 
 # Technologies Used
-Java
-Android Studio
-XML Layouts
-Android Timers and Handlers
-SharedPreferences (for saving high scores)
-Object-Oriented Programming (OOP)
+**Java**
+**Android Studio**
+**XML Layouts**
+**Android Timers and Handlers**
+**SharedPreferences (for saving high scores)**
+**Object-Oriented Programming (OOP)**
 
 # Gameplay
-Start the game with a dinosaur that has 60 seconds of life.
-Feed the dinosaur using Apple, Chicken, or Fruit.
-Restore the timer and earn points for each feeding.
-Watch for special food cravings.
-Feed the correct craving item to earn 2× bonus points.
-Prevent the timer from reaching zero.
-Try to achieve the highest score possible and beat your previous record.
+**Start the game with a dinosaur that has 60 seconds of life.**
+**Feed the dinosaur using Apple, Chicken, or Fruit.**
+**Restore the timer and earn points for each feeding.**
+**Watch for special food cravings.**
+**Feed the correct craving item to earn 2× bonus points.**
+**Prevent the timer from reaching zero.**
+**Try to achieve the highest score possible and beat your previous record.**
 
 # Learning Outcomes
 
 This project helped in understanding:
 
-Android application development using Java
-XML-based user interface design
-Timer and countdown implementation
-Event-driven programming
-Game mechanics and scoring systems
-Data persistence using high scores
-User interaction and mobile app design
+**Android application development using Java**
+**XML-based user interface design**
+**Timer and countdown implementation**
+**Event-driven programming**
+**Game mechanics and scoring systems**
+**Data persistence using high scores**
+**User interaction and mobile app design**
 
 # Future Enhancements
-Multiple dinosaur characters
-Levels and difficulty modes
-Sound effects and background music
-Achievement and reward system
-Leaderboard functionality
-Additional food items and cravings
-Short GitHub Repository Description
+**Multiple dinosaur characters**
+**Levels and difficulty modes**
+**Sound effects and background music**
+**Achievement and reward system**
+**Leaderboard functionality**
+**Additional food items and cravings**
+**Short GitHub Repository Description**
 
 ChronoDino is an Android virtual pet survival game where players must feed a dinosaur, manage a 60-second life timer, fulfill food cravings for double points, and achieve the highest score before the dinosaur starves. 

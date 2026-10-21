@@ -11,7 +11,7 @@ Each food item awards a specific number of points and restores the dinosaur's ti
 The game also includes a High Score System, allowing players to track and beat their best scores across multiple gameplay sessions.
 
 # Features
-Real-time 60-second life timer
+*Real-time 60-second life timer
 Interactive virtual dinosaur pet
 Three different food choices
 Score-based gameplay
